@@ -13,7 +13,7 @@
 
 <div>
   <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/icons8-github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
    <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;

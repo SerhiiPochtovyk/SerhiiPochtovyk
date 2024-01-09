@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiPochtovyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SerhiiPochtovyk&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Serhii Pochtovyk profile views](https://u8views.com/api/v1/github/profiles/138805046/views/day-week-month-total-count.svg)](https://u8views.com/github/SerhiiPochtovyk)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

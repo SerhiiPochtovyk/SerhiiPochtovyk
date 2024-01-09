@@ -1,38 +1,18 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px">&nbsp; I'm Serhii Pochtovyk</h1>
-  
-- 👀 I’m interested in **computer programming & development**
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js**
-- 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**
-- 📫 How to reach me **s.pochtovyk@gmail.com**
+# 💫 About Me:
+- 👀 I’m interested in **computer programming & development**<br>- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js**<br>- 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**<br>- 📫 How to reach me **s.pochtovyk@gmail.com**
 
-<div align="center">
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/deweloper.gif" width ="25%"/> 
-  </div>
 
-### My Stack :
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/serhii.pochtovyk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/serhii-pochtovyk) 
 
-<div>
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/icons8-github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/typescript-blue.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/npm.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/redux.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/terminal.png" title="Terminal" alt="Terminal" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/parsel.avif" title="Parcel" alt="Parcel" width="50" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/webpack.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/codepen-plain.svg" title="CodePen" alt="CodePen" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
-<img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/mongodb.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
-<img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/SerhiiPochtovyk/SerhiiPochtovyk/blob/main/img/firebase.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  </div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SerhiiPochtovyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SerhiiPochtovyk&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiPochtovyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-       ㅤㅤㅤㅤ  ㅤㅤㅤㅤㅤㅤㅤㅤ
+---
+[![](https://visitcount.itsvg.in/api?id=SerhiiPochtovyk&icon=1&color=2)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

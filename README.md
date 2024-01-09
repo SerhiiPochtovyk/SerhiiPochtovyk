@@ -13,6 +13,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiPochtovyk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SerhiiPochtovyk&icon=1&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SerhiiPochtovyk&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

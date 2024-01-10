@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👀 I’m interested in **computer programming & development**<br>- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js**<br>- 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**<br>- 📫 How to reach me **s.pochtovyk@gmail.com**
+<br>- 👀 I’m interested in **computer programming & development**<br>- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js**<br>- 💞️ I’m looking to collaborate with **Google, Microsoft, Meta**<br>- 📫 How to reach me **s.pochtovyk@gmail.com**
 
 
 ## 🌐 Socials:
